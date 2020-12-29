@@ -1,0 +1,13 @@
+C:\Users\Blue9\Desktop\ADVICE\Code\ObserverDP\ObserverDP\bin\Debug\netcoreapp3.1\ObserverDP.exe
+C:\Users\Blue9\Desktop\ADVICE\Code\ObserverDP\ObserverDP\bin\Debug\netcoreapp3.1\ObserverDP.deps.json
+C:\Users\Blue9\Desktop\ADVICE\Code\ObserverDP\ObserverDP\bin\Debug\netcoreapp3.1\ObserverDP.runtimeconfig.json
+C:\Users\Blue9\Desktop\ADVICE\Code\ObserverDP\ObserverDP\bin\Debug\netcoreapp3.1\ObserverDP.runtimeconfig.dev.json
+C:\Users\Blue9\Desktop\ADVICE\Code\ObserverDP\ObserverDP\bin\Debug\netcoreapp3.1\ObserverDP.dll
+C:\Users\Blue9\Desktop\ADVICE\Code\ObserverDP\ObserverDP\bin\Debug\netcoreapp3.1\ObserverDP.pdb
+C:\Users\Blue9\Desktop\ADVICE\Code\ObserverDP\ObserverDP\obj\Debug\netcoreapp3.1\ObserverDP.csprojAssemblyReference.cache
+C:\Users\Blue9\Desktop\ADVICE\Code\ObserverDP\ObserverDP\obj\Debug\netcoreapp3.1\ObserverDP.AssemblyInfoInputs.cache
+C:\Users\Blue9\Desktop\ADVICE\Code\ObserverDP\ObserverDP\obj\Debug\netcoreapp3.1\ObserverDP.AssemblyInfo.cs
+C:\Users\Blue9\Desktop\ADVICE\Code\ObserverDP\ObserverDP\obj\Debug\netcoreapp3.1\ObserverDP.csproj.CoreCompileInputs.cache
+C:\Users\Blue9\Desktop\ADVICE\Code\ObserverDP\ObserverDP\obj\Debug\netcoreapp3.1\ObserverDP.dll
+C:\Users\Blue9\Desktop\ADVICE\Code\ObserverDP\ObserverDP\obj\Debug\netcoreapp3.1\ObserverDP.pdb
+C:\Users\Blue9\Desktop\ADVICE\Code\ObserverDP\ObserverDP\obj\Debug\netcoreapp3.1\ObserverDP.genruntimeconfig.cache
